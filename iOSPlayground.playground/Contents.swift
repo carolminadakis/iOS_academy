@@ -22,3 +22,8 @@ print(returnWordWithGivenCharacter(inputWords: ["abelha", "cachorro", "gato", "a
 
 //challenge 7
 print(calculator(calculate: (num1: 25, operator: "+", num2: 35.5)))
+
+//challenge 8
+print(checkBoardGame(board: [["O","X","O"],
+                             ["X","X","O"],
+                             ["O","X","X"]]))
